@@ -5,7 +5,7 @@
 		"username": "liejiu"
 	},
 	"theme": {
-		"colorBrand": "#D7CCFF",
+		"colorBrand": "#de4331",
 		"colorPrimary": "#4E3F42",
 		"colorSecondary": "#7b888e",
 		"colorBrandSecondary": "#FCC841",
@@ -15,10 +15,12 @@
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#f0984f",
-		"#2E329E",
-		"#46357E",
-		"#DE2711"
+		"#FCC841",
+		"#DFEFFC",
+		"#DEDE92",
+		"#DE4331",
+		"#FE9750",
+		"#FCC841"
 	],
 	"artImages": [
 		{
