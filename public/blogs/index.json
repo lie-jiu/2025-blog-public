@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2",
+    "title": "我的世界服务器搭建教程",
+    "tags": [
+      "MC",
+      "教程",
+      "我的世界"
+    ],
+    "date": "2026-02-16T20:43",
+    "summary": "我的世界paper端linux搭建教程",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "1",
     "title": "使用CF Workers免费搭建Bitwarden。2026最新教程。",
     "tags": [
