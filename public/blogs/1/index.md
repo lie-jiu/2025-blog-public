@@ -72,13 +72,22 @@ Warden旨在利用Cloudflare Workers生态系统解决这个问题。
  5. 运行Actions
  打开项目的Actions选项卡。
 
-点击绿色按钮**I understand my workflows, go ahead and enable them**
+点击绿色按钮
+
+**I understand my workflows, go ahead and enable them**
+
   6. 运行**Build**等待完成
+
 ![](/blogs/1/bff9a452ee38c5e6.png)
+
 ## CloudFlareWorker
+
  7. 运行完成后打开workers项目
+
 ![](/blogs/1/ca2f05683f3a4b54.png)
+
  8. 添加变量和机密
+
 ![](/blogs/1/a42756e827782477.png)
  
 
@@ -98,3 +107,9 @@ Warden旨在利用Cloudflare Workers生态系统解决这个问题。
 访问链接后面的`/#/login`改为`/#/signup`
 
 注册后就可以登陆了
+
+或在works添加纯文本变量
+
+| 名称                 | 用途        | 备注           |
+| ------------------ | --------- | ------------ |
+| DISABLE_USER_REGISTRATION     | 禁用用户注册 | false     |
