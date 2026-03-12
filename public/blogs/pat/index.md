@@ -4,6 +4,7 @@
 
 每支参赛队由最多10名队员组成。
 
+[官网详细介绍](https://gplt.pintia.cn/regulation)
 ## 报名教程
 1. 打开[PTA](https://uep.pintia.cn/gplt-reg/examGroups)注册或登录.
 2. 完善个人信息并实名认证。
